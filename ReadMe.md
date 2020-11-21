@@ -7,3 +7,5 @@
   bazel run isaac_data_parser:parse_data
   ```
   You will see something like ![this](example.png)
+  
+- Once the data is parsed, double check to remove any discrepancy by running 'clean.py' in the end over the complete dataset.
